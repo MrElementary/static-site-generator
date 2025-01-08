@@ -1,4 +1,4 @@
-# Python Maze Solver
+# Static Site Generaotr
 
 ## Description
 
