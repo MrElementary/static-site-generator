@@ -1,4 +1,4 @@
-# Static Site Generaotr
+# Static Site Generator
 
 ## Description
 
